@@ -1,0 +1,1 @@
+{"datasets": ["Daily prices", "Monthly Prices"], "license": "free", "title": "Daily and Monthly Henry Hub Natural Gas Spot Prices", "author": "Bozhidar Hristov", "source": "http://www.eia.gov/", "columns": ["date", "price"]}
